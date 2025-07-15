@@ -28,7 +28,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        <h3 className="mb-4 text-center">Iniciar Sesión</h3>
+        <h3 className="mb-4 text-center">Bienvenido al sistema de login 🔐</h3>
         <input
           className="form-control mb-3"
           placeholder="Usuario"
